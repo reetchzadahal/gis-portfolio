@@ -27,7 +27,7 @@ An accuracy assessment was performed to evaluate classification performance.
 ### Methods
 - Confusion matrix was generated
 - Ground truth/reference data was used for validation
-- ![Confusion Matrix](Confusion Matrix.jpg)
+- ![Confusion Matrix](Confusion Matrix.png)
 
 ### Metrics
 - Overall Accuracy: 65.217%
