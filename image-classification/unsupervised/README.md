@@ -18,7 +18,7 @@ To classify land use and land cover using unsupervised classification techniques
 - Class interpretation and labeling
 
 ### Output
-(Map will be added here)
+![LULC Map](UNSUPERVISEDIMAGE.jpg)
 
 ## Accuracy Assessment
 
@@ -27,7 +27,7 @@ An accuracy assessment was performed to evaluate classification performance.
 ### Methods
 - Confusion matrix was generated
 - Ground truth/reference data was used for validation
-- 
+- ![Confusion Matrix](Confusion Matrix.jpg)
 
 ### Metrics
 - Overall Accuracy: 65.217%
