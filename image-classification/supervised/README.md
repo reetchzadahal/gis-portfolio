@@ -25,7 +25,7 @@ To classify land use and land cover using supervised classification.
 - Cloud
 
 ## Output
-(Map will be added below)
+![LULC Map](Tamor_Final.jpg)
 
 ## Author
 Richa Dahal
