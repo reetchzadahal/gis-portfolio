@@ -1,31 +1,31 @@
-# Supervised Land Use / Land Cover Classification
+## Supervised Land Use / Land Cover Classification
 
-## Study Area
+### Study Area
 Tamor River Basin
 
-## Objective
+### Objective
 To classify land use and land cover using supervised classification.
 
-## Software Used
+### Software Used
 - ArcMap 10.7
 
-## Data Source
+### Data Source
 - USGS EarthExplorer
 
-## Methodology
+### Methodology
 - Training sample selection
 - Supervised classification (Maximum Likelihood)
 - Post-processing
 
-## Classes
+### Classes
 - Barren / Rock / Dry Riverbed
 - Forest / Grassland / Agricultural land
 - River / Lakes
 - Snow / Ice
 - Cloud
 
-## Output
+### Output
 ![LULC Map](Tamor_Final.jpg)
 
-## Author
+### Author
 Richa Dahal
