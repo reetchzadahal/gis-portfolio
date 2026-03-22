@@ -31,7 +31,7 @@ To delineate watershed boundaries and extract stream networks using DEM data.
 - Stream network map
 
 ### Output
-(Map will be added here)
+![Watershed Map](Narayani_Delineation.png)
 
 ### Author
 Richa Dahal
